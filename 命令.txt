@@ -1,0 +1,2 @@
+ÉÏ´«£ºgit push -u origin master
+ÏÂÔØ£ºgit clone https://github.com/hk029/hello-world.git
