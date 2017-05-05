@@ -1,2 +1,5 @@
 上传：git push -u origin master
 下载：git clone https://github.com/hk029/hello-world.git
+ 进入docker：docker exec -it ZWFtensorflow /bin/bash
+
+PTB catalog:D:\Anaconda\envs\TensorFlow\Lib\site-packages\tensorflow\models\rnn\ptb
