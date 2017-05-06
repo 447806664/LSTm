@@ -3,3 +3,4 @@
  进入docker：docker exec -it ZWFtensorflow /bin/bash
 
 PTB catalog:D:\Anaconda\envs\TensorFlow\Lib\site-packages\tensorflow\models\rnn\ptb
+上传git GUI ：选择commit ----push(勾选强制上传)
