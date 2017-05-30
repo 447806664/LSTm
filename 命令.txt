@@ -4,3 +4,9 @@
 
 PTB catalog:D:\Anaconda\envs\TensorFlow\Lib\site-packages\tensorflow\models\rnn\ptb
 上传git GUI ：选择commit ----push(勾选强制上传)
+
+
+plt.figure()
+plt.plot(data[:,1],data[:,2])
+plt.show()
+绘制二维图片
